@@ -20,7 +20,7 @@ import 'page/splashs.dart';
 import 'package:get_storage/get_storage.dart';
 
 import 'package:shared_preferences/shared_preferences.dart';
-
+//Abdurrhmankhrrat
 var check=true;
 var username;
 var email;
