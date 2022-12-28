@@ -14,3 +14,14 @@
 
 # signin
 ![1](https://user-images.githubusercontent.com/42301187/209860443-92c143af-259a-4886-8dc1-1f04e232a78f.png)
+
+![2](https://user-images.githubusercontent.com/42301187/209860462-8e40b31a-aa33-4d39-b5ca-3ea97bc3473c.png)
+
+# control panal
+![3](https://user-images.githubusercontent.com/42301187/209860475-d2d9bb23-733e-43e3-8a42-da0e9e3a1bec.png)
+
+# add device
+![4](https://user-images.githubusercontent.com/42301187/209860489-0b2fd6c4-88ee-4639-8ed6-7e856dd384f1.png)
+
+# edit device 
+![5](https://user-images.githubusercontent.com/42301187/209860500-cf3abaa5-db32-4728-b1d1-3b93eb62ef92.png)
