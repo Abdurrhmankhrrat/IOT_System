@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "838319212326",
+    "project_id": "iotswitch-a0cec",
+    "storage_bucket": "iotswitch-a0cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838319212326:android:74ccc422c956403edde3e7",
+        "android_client_info": {
+          "package_name": "com.example.iot_switch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838319212326-knt63npcc6de9l3ogrgqdbim5hrj7ags.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_switch",
+            "certificate_hash": "eb992abb7b3e46d408165f624baefd2b7626b8b8"
+          }
+        },
+        {
+          "client_id": "838319212326-ue2gmt42hq8tfspo7g0k9oiqafe271bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewN9oohW0cea4WfPknCuKMScmiu19Hb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838319212326-ue2gmt42hq8tfspo7g0k9oiqafe271bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
